@@ -1,21 +1,32 @@
-# Bootstrap_Form
-# JavaScript To-Do List
+# 🛍️ Bootstrap_Form - E-Shop System 🚀
+
+<img src="image.webp" alt="E-Shop Screenshot" width="600" height="350">
+
+A **responsive** and **user-friendly** e-commerce web application built using **Bootstrap**. This platform enables users to create accounts, browse products, and securely upload images. The system features modern design elements, including clean forms, mobile-friendly layouts, and a seamless shopping experience.
+
+---
+
+## ✨ Key Features
+
+- 🛒 **Product Listing & Categorization** – Organize products into categories for easy browsing.
+- 🔐 **Secure User Authentication** – Sign Up and Sign In functionality.
+- 📱 **Responsive Design** – Built with Bootstrap for full mobile and desktop compatibility.
+- 🎨 **Clean UI/UX** – Minimalist design for intuitive navigation and better user experience.
 
 
+---
 
-![Screenshot](image.webp)
-E-Shop System 🚀
+## 🔧 Tech Stack
 
-A responsive and user-friendly e-commerce web application built with Bootstrap. This platform allows users to create accounts, browse products, and securely upload images. The system features modern design elements, including clean forms, mobile-friendly layouts, and a seamless shopping experience.
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+---
 
-Key Features:
+## 🚀 Getting Started
 
-🛒 Product listing and categorization
-🔐 Secure user authentication (Sign Up & Sign In)
-📱 Responsive design with Bootstrap
-🎨 Clean UI/UX for easy navigation
+Follow these steps to set up the project locally:
 
-Tech Stack:
-
-HTML5 | CSS3 | Bootstrap 5
-JavaScript
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your- niwanthaniluka/Bootstrap_Form.git
