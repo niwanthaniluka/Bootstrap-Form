@@ -1,6 +1,6 @@
 # 🛍️ Bootstrap_Form - E-Shop System 🚀
 
-<img src="image.webp" alt="E-Shop Screenshot" width="600" height="300">
+<img src="image.webp" alt="E-Shop Screenshot" width="500" height="600">
 
 A **responsive** and **user-friendly** e-commerce web application built using **Bootstrap**. This platform enables users to create accounts, browse products, and securely upload images. The system features modern design elements, including clean forms, mobile-friendly layouts, and a seamless shopping experience.
 
